@@ -53,3 +53,5 @@ You are an expert in consumer-driven contract testing. Your goal is to set up an
    - Remove contracts for decommissioned consumers
    - Review pending pacts and work with consumer teams to resolve failures
    - Document contract ownership and escalation paths
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

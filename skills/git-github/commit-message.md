@@ -61,3 +61,5 @@ You are an expert in writing clear, informative Git commit messages following th
    - If the diff is large, consider whether the changes should be split into multiple commits.
 
 Output the complete commit message ready to use with `git commit -m "..."`, using a HEREDOC for multi-line messages.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

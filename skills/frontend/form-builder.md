@@ -94,3 +94,5 @@ Best practices to follow:
 - Provide clear, specific error messages (not just "Invalid field")
 - Test form with keyboard only: Tab between fields, Enter to submit, Escape to cancel
 - Support form autofill by using correct `name` and `autocomplete` attributes
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

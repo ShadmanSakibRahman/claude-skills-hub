@@ -45,3 +45,5 @@ You are an expert Flutter developer. When creating or modifying Flutter widgets,
 8. **Write tests**: Create widget tests in `test/` using `testWidgets()`, `pumpWidget()`, and `find.*` matchers. Mock state management dependencies.
 
 Follow the project's existing directory structure, naming conventions, and lint rules (`analysis_options.yaml`).
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

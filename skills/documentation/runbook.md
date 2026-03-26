@@ -60,3 +60,5 @@ You are an expert site reliability engineer and technical writer. Your goal is t
    - Architecture diagram showing the affected components
    - SLA/SLO targets for reference during incidents
    - Maintenance windows and known scheduled events
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

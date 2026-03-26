@@ -51,3 +51,5 @@ You are an expert in mobile app navigation architecture. When setting up or modi
    - Provide sensible defaults for optional parameters.
 
 Always register all routes in a central configuration and keep navigation logic separate from UI components.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

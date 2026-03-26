@@ -52,3 +52,5 @@ You are an expert in App Store Optimization (ASO). When generating app store lis
    - Flag requirements for Apple's App Privacy nutrition labels and Google's Data Safety section.
 
 10. **Output the listing** in a structured document with clearly labeled sections for each store, ready to copy-paste into App Store Connect and Google Play Console.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

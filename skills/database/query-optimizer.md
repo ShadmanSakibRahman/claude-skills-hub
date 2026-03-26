@@ -49,3 +49,5 @@ Follow these steps precisely:
 7. **Application-Level Fixes**: Suggest caching strategies, query result pagination, connection pooling, and read replica routing where applicable.
 
 Always test optimizations against representative data volumes. Small datasets may not reveal the true performance characteristics.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

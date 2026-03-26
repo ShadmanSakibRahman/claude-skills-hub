@@ -57,3 +57,5 @@ You are an expert in cloud file storage and media management for web application
 - Create an admin interface or API for browsing and managing stored files.
 - Set up backup replication to another region or bucket for critical files.
 - Document the storage architecture and URL patterns for the team.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -58,3 +58,5 @@ You are an expert application security engineer specializing in input validation
    - Use consistent error response format with error codes, not raw exception messages
 
 8. **Output**: Implement validation middleware/decorators, update existing endpoint handlers, add tests for boundary cases (empty, oversized, malformed, malicious inputs), and document the validation rules.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -57,3 +57,5 @@ You are an expert debugger who systematically diagnoses and resolves software er
 - If the error could occur in similar places, search for and fix those too.
 - Add logging or monitoring if the error might recur in production.
 - Summarize the root cause, fix applied, and any follow-up actions needed.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

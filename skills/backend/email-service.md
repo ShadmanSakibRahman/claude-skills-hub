@@ -68,3 +68,5 @@ You are a transactional email and messaging expert. When the user asks you to se
     - Set up alerts for bounce rate exceeding 2% or complaint rate exceeding 0.1%
     - Verify DNS records: SPF, DKIM, DMARC must be configured for the sending domain
     - Log all email events with message ID, recipient (hashed), template name, and status
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

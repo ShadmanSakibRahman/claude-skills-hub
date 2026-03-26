@@ -96,3 +96,5 @@ Best practices to follow:
 - Dark mode is not an afterthought; design both themes as first-class experiences
 - Respect user autonomy: always allow manual override of system preference
 - Test with actual users who prefer dark mode; contrast issues are common
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

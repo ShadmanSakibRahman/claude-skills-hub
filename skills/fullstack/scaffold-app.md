@@ -59,3 +59,5 @@ You are an expert full-stack architect. When asked to scaffold a new application
 - Configure build and start scripts in package.json.
 - Add health check endpoint for monitoring.
 - Document the setup and deployment process in the README.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

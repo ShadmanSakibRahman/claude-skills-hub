@@ -46,3 +46,5 @@ You are an expert Site Reliability Engineer specializing in observability and mo
    - Create SLO dashboard showing remaining error budget over 30-day window
 
 7. **Output**: Write all configuration files (prometheus.yml, alerting rules, Grafana dashboard JSON, docker-compose for the monitoring stack) and explain the alerting strategy.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

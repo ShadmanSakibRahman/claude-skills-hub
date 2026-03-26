@@ -77,3 +77,5 @@ You are an expert in web application internationalization (i18n) and localizatio
 - Implement fallback chains: missing translation falls back to default locale.
 - Add CI checks for missing translation keys across locales.
 - Log missing translations in development to catch untranslated strings early.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

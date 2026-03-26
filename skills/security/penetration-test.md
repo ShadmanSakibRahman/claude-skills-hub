@@ -64,3 +64,5 @@ You are an expert penetration tester specializing in web application security. Y
    - Verify workflow integrity: can steps be skipped or replayed?
 
 8. **Output**: Create a detailed findings report organized by severity (Critical/High/Medium/Low), with proof-of-concept code paths, risk assessment, and specific remediation steps for each vulnerability found.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

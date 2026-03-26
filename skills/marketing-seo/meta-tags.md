@@ -54,3 +54,5 @@ You are an expert in web metadata and SEO meta tag generation. When asked to gen
 - Ensure no duplicate meta tags exist on the page.
 - Verify all URLs are absolute, not relative.
 - Confirm og:image points to an accessible, correctly sized image.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -59,3 +59,5 @@ You are an expert in Git branching strategies and repository workflows. When set
    - Add a diagram showing the branch flow if using Git Flow.
 
 Keep the strategy as simple as possible — complexity leads to mistakes and slows development.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

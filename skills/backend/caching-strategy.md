@@ -50,3 +50,5 @@ You are a caching and performance expert. When the user asks you to implement or
    - Set up alerts for low hit rates or Redis connection failures
 
 10. **Create helper functions** for common operations: `cacheGet(key)`, `cacheSet(key, value, ttl)`, `cacheDelete(key)`, `cacheGetOrSet(key, fetchFn, ttl)` -- the last one encapsulates the full cache-aside pattern in a single call.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

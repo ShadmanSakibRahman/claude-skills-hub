@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Skills-178+-blue?style=for-the-badge" alt="Skills Count"/>
   <img src="https://img.shields.io/badge/Categories-16-green?style=for-the-badge" alt="Categories"/>
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License"/>
+  <img src="https://img.shields.io/badge/License-CC%20BY%204.0-yellow?style=for-the-badge" alt="License"/>
   <img src="https://img.shields.io/github/stars/ShadmanSakibRahman/claude-skills-hub?style=for-the-badge" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/ShadmanSakibRahman/claude-skills-hub?style=for-the-badge" alt="Forks"/>
 </p>
 
 <h1 align="center">Claude Skills Hub</h1>
@@ -10,15 +11,18 @@
 <p align="center">
   <strong>The most comprehensive collection of Claude Code skills in one place.</strong><br/>
   178+ production-ready custom slash commands across 16 categories.<br/>
-  Copy. Paste. Ship faster.
+  Star it. Fork it. Ship faster.
 </p>
 
 <p align="center">
-  <a href="#-quick-start">Quick Start</a> |
+  <a href="#-how-to-use">How to Use</a> |
   <a href="#-popular-skills">Popular Skills</a> |
   <a href="#-all-categories">All Categories</a> |
-  <a href="#-installation">Installation</a> |
   <a href="#-contributing">Contributing</a>
+</p>
+
+<p align="center">
+  <sub>Curated and maintained by <a href="https://github.com/ShadmanSakibRahman">@ShadmanSakibRahman</a></sub>
 </p>
 
 ---
@@ -27,42 +31,53 @@
 
 [Claude Code](https://docs.anthropic.com/en/docs/claude-code) supports **custom slash commands** — reusable skill files that turn Claude into a specialized expert for any task. This repo is the **largest curated collection** of these skills, organized by domain.
 
-Each skill is a `.md` file you drop into your `.claude/commands/` folder. Then type `/skill-name` in Claude Code and it activates.
+Each skill is a `.md` file you place into your `.claude/commands/` folder. Then type `/skill-name` in Claude Code and it activates.
 
 ---
 
-## Quick Start
+## How to Use
 
-**Option 1: Copy individual skills**
+### Step 1: Star & Fork this repo
+
+Click the **Star** button above to bookmark this collection, then **Fork** it to your own GitHub account so you always have access and get updates.
+
+### Step 2: Clone your fork
+
 ```bash
-# Create commands directory if it doesn't exist
-mkdir -p ~/.claude/commands
-
-# Copy any skill you want
-cp skills/popular/frontend-design.md ~/.claude/commands/
-cp skills/testing/unit-test.md ~/.claude/commands/
-
-# Now use /frontend-design or /unit-test in Claude Code
+git clone https://github.com/<your-username>/claude-skills-hub.git
 ```
 
-**Option 2: Copy an entire category**
+### Step 3: Set up a symlink to your Claude commands
+
+**macOS / Linux:**
 ```bash
-cp skills/frontend/*.md ~/.claude/commands/
+ln -s "$(pwd)/claude-skills-hub/skills" ~/.claude/skills-hub
 ```
 
-**Option 3: Clone everything**
-```bash
-git clone https://github.com/ShadmanSakibRahman/claude-skills-hub.git
-cp -r claude-skills-hub/skills/**/*.md ~/.claude/commands/
+**Windows (PowerShell as Admin):**
+```powershell
+New-Item -ItemType SymbolicLink -Path "$HOME\.claude\skills-hub" -Target "$(Get-Location)\claude-skills-hub\skills"
 ```
 
-**Option 4: Project-level skills (recommended for teams)**
+### Step 4: Stay updated
+
+Since you forked, you can pull updates anytime:
 ```bash
-# Inside your project root
-mkdir -p .claude/commands
-cp path/to/claude-skills-hub/skills/testing/*.md .claude/commands/
-# These skills are now available to everyone working on this project
+cd claude-skills-hub
+git pull upstream main
 ```
+
+### Project-Level Usage (for teams)
+
+Add this repo as a **git submodule** so your whole team gets the skills:
+
+```bash
+cd your-project
+git submodule add https://github.com/ShadmanSakibRahman/claude-skills-hub.git .claude/skills-hub
+git commit -m "Add Claude Skills Hub as submodule"
+```
+
+> **License:** This collection is licensed under [CC BY 4.0](LICENSE). You are free to use and adapt these skills, but **you must give credit** to this repo and its author. See [LICENSE](LICENSE) for details.
 
 ---
 
@@ -375,51 +390,6 @@ Create visually stunning assets and designs.
 
 ---
 
-## Installation
-
-### Prerequisites
-
-- [Claude Code](https://docs.anthropic.com/en/docs/claude-code) installed and configured
-
-### Install All Skills
-
-```bash
-# Clone the repo
-git clone https://github.com/ShadmanSakibRahman/claude-skills-hub.git
-
-# Copy all skills to your global commands
-mkdir -p ~/.claude/commands
-cp claude-skills-hub/skills/**/*.md ~/.claude/commands/
-
-# Verify
-ls ~/.claude/commands/
-```
-
-### Install Specific Categories
-
-```bash
-# Only testing skills
-cp claude-skills-hub/skills/testing/*.md ~/.claude/commands/
-
-# Only security + devops
-cp claude-skills-hub/skills/security/*.md ~/.claude/commands/
-cp claude-skills-hub/skills/devops/*.md ~/.claude/commands/
-```
-
-### Project-Level Installation
-
-```bash
-# Inside your project
-mkdir -p .claude/commands
-cp claude-skills-hub/skills/frontend/*.md .claude/commands/
-
-# Commit to share with your team
-git add .claude/commands/
-git commit -m "Add Claude Code skills for frontend development"
-```
-
----
-
 ## How Skills Work
 
 Each skill is a Markdown file with YAML frontmatter:
@@ -476,10 +446,12 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) for details.
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE)
+
+You are free to use, share, and adapt these skills — but **you must give appropriate credit** to this repository and its author [@ShadmanSakibRahman](https://github.com/ShadmanSakibRahman).
 
 ---
 
 <p align="center">
-  <sub>If this helped you, consider giving it a star. It helps others discover the collection.</sub>
+  <strong>Found this useful? Give it a star — it helps others discover the collection.</strong>
 </p>

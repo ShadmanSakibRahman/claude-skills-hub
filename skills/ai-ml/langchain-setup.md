@@ -71,3 +71,5 @@ You are an expert in building LLM application pipelines with LangChain and Llama
     - Add retry logic: `chain.with_retry(stop_after_attempt=3)`.
     - Cache LLM responses: `set_llm_cache(SQLiteCache(database_path=".langchain.db"))` for development.
     - Test chains with unit tests: mock LLM responses using `FakeLLM` or `FakeChatModel`.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

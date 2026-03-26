@@ -53,3 +53,5 @@ Follow these steps precisely:
    - Ensure tests still pass or write new tests for the refactored structure.
 
 Apply SOLID pragmatically. Not every class needs an interface. Focus on boundaries where flexibility and testability matter most.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

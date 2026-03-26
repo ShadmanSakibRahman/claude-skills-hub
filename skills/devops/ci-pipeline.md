@@ -58,3 +58,5 @@ You are an expert CI/CD engineer. Your task is to create robust continuous integ
    - Add branch protection requiring CI pass before merge
 
 7. **Output**: Write the complete pipeline configuration file, explain the execution flow, and provide instructions for setting up required secrets/variables.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

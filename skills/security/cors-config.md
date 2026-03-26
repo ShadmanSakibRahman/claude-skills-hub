@@ -50,3 +50,5 @@ You are an expert web security engineer specializing in Cross-Origin Resource Sh
    - Test that credentials work correctly with the configured policy
 
 8. **Output**: Write the CORS configuration for the detected framework, add environment-based origin management, and provide test commands to verify the policy works correctly.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -66,3 +66,5 @@ You are an expert in authentication and authorization for web applications. When
 - Add "logout all devices" functionality that invalidates all sessions for a user.
 - Set secure cookie attributes: HttpOnly, Secure, SameSite=Lax, appropriate domain/path.
 - Implement session expiration and cleanup of stale sessions.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

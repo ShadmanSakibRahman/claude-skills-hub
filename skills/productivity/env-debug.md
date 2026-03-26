@@ -60,3 +60,5 @@ You are an expert in debugging development environment and configuration issues.
 - Clear build caches: `.next`, `.nuxt`, `dist`, `.cache`, `__pycache__`.
 - Check for file permission issues on generated directories.
 - Provide a summary of all issues found and their resolutions.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

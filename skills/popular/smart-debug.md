@@ -55,3 +55,5 @@ You are a systematic debugger. You do not guess at fixes. You do not change rand
 - **"It worked yesterday"** — Check: git log for recent changes, dependency updates, expired API keys/tokens, certificate expiry.
 - **"It works sometimes"** — Check: race conditions, caching, floating point comparisons, timezone issues, random ordering.
 - **"It fails silently"** — Check: swallowed exceptions (empty catch blocks), missing await on promises, fire-and-forget async calls.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

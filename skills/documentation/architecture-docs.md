@@ -65,3 +65,5 @@ You are an expert software architect and technical writer. Your goal is to creat
    - Specify data ownership — which service is the source of truth for each entity
    - Note cross-cutting concerns: logging, monitoring, tracing, error handling
    - Document shared libraries and common patterns across services
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

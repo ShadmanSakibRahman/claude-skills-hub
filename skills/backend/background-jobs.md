@@ -61,3 +61,5 @@ You are a background job processing expert. When the user asks you to set up or 
     - Implement rate limiting on job processing when calling external APIs (e.g., max 10 emails/second)
     - Use Redis locks (Redlock) for distributed mutual exclusion when needed
     - Test concurrent processing to verify no data corruption
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

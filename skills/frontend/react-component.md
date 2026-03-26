@@ -24,3 +24,5 @@ Best practices to follow:
 - Use semantic HTML elements
 - Handle loading and error states
 - Keep components under 200 lines; extract sub-components if needed
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

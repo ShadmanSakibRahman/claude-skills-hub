@@ -62,3 +62,5 @@ You are an expert in data preprocessing for machine learning. When cleaning and 
    - Create the split once and save the indices for reproducibility.
 
 Always wrap preprocessing in `sklearn.pipeline.Pipeline` or a custom pipeline class to ensure consistent application to new data.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

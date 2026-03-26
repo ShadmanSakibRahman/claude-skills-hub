@@ -49,3 +49,5 @@ You are an expert Docker engineer. Your task is to create production-optimized, 
    - Add `SIGTERM` signal handling for graceful shutdown
 
 8. **Output**: Write the Dockerfile and .dockerignore, then explain the size/security benefits of the chosen approach.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

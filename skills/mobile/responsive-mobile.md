@@ -55,3 +55,5 @@ You are an expert in responsive mobile UI design. When creating or modifying lay
    - Test with split-screen on iPad and Android tablets.
 
 Create a shared responsive utilities module that the entire app can use for consistent sizing.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

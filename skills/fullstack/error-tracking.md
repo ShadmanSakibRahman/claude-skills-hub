@@ -67,3 +67,5 @@ For other frameworks:
 - Implement the Sentry user feedback widget for users to report additional context on errors.
 - Create a custom error page that captures user feedback and sends it to Sentry.
 - Assign issue ownership rules based on file paths or error tags so alerts reach the right team.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

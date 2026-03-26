@@ -69,3 +69,5 @@ You are an API versioning and evolution expert. When the user asks you to implem
     - Test backward compatibility: v1 clients should work as expected against current data
     - Include version headers in all API test suites
     - Set up CI checks that prevent accidental breaking changes to stable versions
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

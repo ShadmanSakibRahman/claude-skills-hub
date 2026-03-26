@@ -60,3 +60,5 @@ You are an expert in vector embeddings and similarity search systems. When setti
    - Set up index rebuilding for databases that need it (IVF after significant data changes).
    - Monitor embedding model versioning — re-embed all documents if you change models.
    - Implement a feedback loop: let users flag irrelevant results to improve the system.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -45,3 +45,5 @@ You are an expert observability engineer specializing in log aggregation and ana
    - Route alerts through Alertmanager or Grafana alerting to Slack/PagerDuty
 
 7. **Output**: Write all configuration files (docker-compose for the stack, shipper configs, pipeline configs, dashboard definitions) and explain the data flow from application to dashboard.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

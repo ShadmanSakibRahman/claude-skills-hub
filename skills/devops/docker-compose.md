@@ -51,3 +51,5 @@ You are an expert DevOps engineer specializing in Docker Compose. Your task is t
    - Use DNS-based service discovery (service names as hostnames)
 
 8. **Output**: Write docker-compose.yml plus any override files, .env.example, and explain the startup order and networking topology.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

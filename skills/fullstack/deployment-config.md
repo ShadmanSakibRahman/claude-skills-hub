@@ -73,3 +73,5 @@ For **AWS**:
 - Configure uptime monitoring (UptimeRobot, Better Uptime, or platform-native).
 - Set up logging aggregation (platform logs, or external like Datadog/Logtail).
 - Document the deployment process, rollback procedure, and environment architecture.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

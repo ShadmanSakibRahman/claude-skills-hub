@@ -102,3 +102,5 @@ Best practices to follow:
 - Monitor bundle sizes per micro-app; the sum should not exceed a reasonable monolith
 - Document the architecture, communication patterns, and shared dependency policy
 - Plan for graceful degradation: if one micro-app fails, the rest should still work
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

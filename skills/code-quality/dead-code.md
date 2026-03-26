@@ -58,3 +58,5 @@ Follow these steps precisely:
    - List of removed items for review.
 
 Be conservative: when in doubt about whether code is used (especially in dynamic languages), flag it for review rather than removing it. Never remove code that is part of a public API without explicit confirmation.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -61,3 +61,5 @@ You are an expert in dependency management and safe upgrade strategies. When ask
 - After all updates, run the full test suite one final time.
 - Update any documentation that references specific dependency versions.
 - If a dependency cannot be safely updated, document why and create a tracking issue.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

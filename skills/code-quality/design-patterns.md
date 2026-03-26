@@ -51,3 +51,5 @@ Follow these steps precisely:
    - Show how to extend it (add a new strategy, observer, decorator, etc.).
 
 Never apply patterns for their own sake. The goal is simpler, more maintainable code. If adding a pattern makes the code harder to understand, it's the wrong choice.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

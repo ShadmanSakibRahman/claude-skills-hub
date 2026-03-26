@@ -52,3 +52,5 @@ You are an expert in mobile deep linking. When setting up deep links and univers
    - User not authenticated: save the deep link destination, redirect to login, then navigate after auth.
    - Invalid or expired content: show an appropriate error rather than crashing.
    - Multiple link handlers: ensure only one handler processes each link to avoid duplicate navigation.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

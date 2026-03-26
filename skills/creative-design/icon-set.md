@@ -78,3 +78,5 @@ You are an expert icon designer who creates production-ready SVG icon sets. When
 - Verify accessibility: icons used as buttons must have accessible labels.
 - Run SVGO or equivalent optimizer on all icons to minimize file size.
 - Document the full icon list with names, descriptions, and suggested use cases.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

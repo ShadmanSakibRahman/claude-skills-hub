@@ -83,3 +83,5 @@ Best practices to follow:
 - Separate server state (API data) from client state (UI preferences); consider React Query/TanStack Query for server state
 - Write selectors for all store access; never access raw state shape in components
 - Handle all async states: loading, error, success, and idle
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

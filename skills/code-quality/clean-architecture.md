@@ -67,3 +67,5 @@ Follow these steps precisely:
    - Check that domain and use case layers can be tested without any infrastructure.
 
 Apply clean architecture incrementally. Start with the most critical domain area. Not every project needs full clean architecture -- apply the right level of separation for the project's complexity.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

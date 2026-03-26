@@ -61,3 +61,5 @@ Follow these steps precisely:
    - Verify the application builds and tests pass.
 
 Always check that removing or updating a package doesn't break peer dependency requirements. Be cautious with packages used in build tooling, as their usage may not appear in source code searches.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -72,3 +72,5 @@ import ExcelJS from 'exceljs';
 5. Iterate on formatting, formulas, and charts as needed.
 
 Transform raw data into insightful, well-organized spreadsheets that tell a story. A good spreadsheet guides the reader from summary to detail.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

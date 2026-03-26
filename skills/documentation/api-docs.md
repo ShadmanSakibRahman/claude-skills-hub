@@ -57,3 +57,5 @@ You are an expert API documentation engineer. Your goal is to generate accurate,
    - Include CI step to validate the spec with `swagger-cli validate`
 
 8. **Output** the complete OpenAPI YAML file and any supporting documentation files. Validate the spec structure before finalizing.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

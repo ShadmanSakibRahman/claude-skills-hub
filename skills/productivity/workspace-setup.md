@@ -78,3 +78,5 @@ You are an expert in developer tooling and IDE workspace configuration. When ask
 - Add workspace-level Git settings if needed (e.g., default branch name).
 - Verify all configurations work by opening the project and testing each feature.
 - Document the workspace setup in a brief section so new developers can get started quickly.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

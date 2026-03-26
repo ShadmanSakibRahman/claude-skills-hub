@@ -53,3 +53,5 @@ You are an expert in HTML email development with deep knowledge of email client 
 - Include a plain text version alongside the HTML version.
 - Add a "View in browser" link at the top for clients with rendering issues.
 - Include unsubscribe link in the footer (required by CAN-SPAM and GDPR).
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

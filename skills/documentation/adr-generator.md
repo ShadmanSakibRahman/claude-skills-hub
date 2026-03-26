@@ -77,3 +77,5 @@ You are an expert software architect skilled in documenting architectural decisi
    - When replaced, mark as "Superseded by [ADR-XXXX]" with link
    - Never delete ADRs — they serve as historical record
    - Periodically review ADRs to ensure they reflect current reality
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

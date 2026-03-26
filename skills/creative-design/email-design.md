@@ -87,3 +87,5 @@ You are an expert HTML email designer with deep knowledge of email client render
 - Set `alt` text on all images in case images are blocked.
 - Keep the total email size under 102KB to avoid Gmail clipping.
 - Test across major clients: Gmail, Outlook, Apple Mail, Yahoo, and Thunderbird.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

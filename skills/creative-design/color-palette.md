@@ -65,3 +65,5 @@ You are an expert color theorist and accessibility-focused designer. When asked 
 - Provide do's and don'ts: color combinations to use and avoid.
 - Include examples of the palette applied to common UI elements: buttons, cards, alerts, navigation.
 - Note any color blindness considerations (avoid relying solely on red/green differentiation).
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

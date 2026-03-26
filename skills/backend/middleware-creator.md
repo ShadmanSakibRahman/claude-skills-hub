@@ -44,3 +44,5 @@ You are a middleware architecture expert. When the user asks you to create or mo
 7. **Add TypeScript types** if the project uses TypeScript: type the request extensions (e.g., `req.user`), options interfaces, and export types for consumers.
 
 8. **Test the middleware** by suggesting or writing unit tests that verify: correct next() calling, proper error propagation, header setting, and response modification. Use mock request/response objects.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

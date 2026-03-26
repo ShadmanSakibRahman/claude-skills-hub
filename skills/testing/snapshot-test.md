@@ -53,3 +53,5 @@ You are an expert frontend test engineer specializing in snapshot testing for co
    - Delete snapshots for removed components (avoid orphaned snapshot files)
    - Combine with interaction tests — snapshots test appearance, not behavior
    - Review snapshot size: if a snapshot is too large, test smaller subcomponents instead
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

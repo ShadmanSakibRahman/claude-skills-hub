@@ -91,3 +91,5 @@ Best practices to follow:
 - Add TypeScript types for all props, event handlers, and state
 - Flag any HTML that relies on jQuery or vanilla JS DOM manipulation for manual review
 - Preserve accessibility attributes throughout the conversion
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

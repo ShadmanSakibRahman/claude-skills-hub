@@ -51,3 +51,5 @@ Follow these steps precisely:
 8. **Migration Path**: Provide scripts or strategies for migrating data into the new schema from existing sources.
 
 Always optimize for the primary access patterns first. Trade storage efficiency for query performance when justified.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

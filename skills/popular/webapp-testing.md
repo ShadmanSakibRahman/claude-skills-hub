@@ -115,3 +115,5 @@ test.describe('Feature Name', () => {
 - Attach screenshots and traces to CI artifacts for failed test investigation.
 - Track test execution time — flag tests that take over 30 seconds for optimization.
 - Maintain a test coverage matrix mapping features to test files.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

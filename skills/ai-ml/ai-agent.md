@@ -64,3 +64,5 @@ You are an expert in building AI agent systems. When creating or improving an AI
    - Evaluate on: task completion rate, number of steps taken, tool usage accuracy, and response quality.
    - Benchmark against different models to find the best cost/quality trade-off.
    - Monitor production usage: track success rates, common failure patterns, and user feedback.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

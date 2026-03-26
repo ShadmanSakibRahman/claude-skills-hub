@@ -57,3 +57,5 @@ Follow these steps precisely:
    - Ensure the code reads like a narrative from top to bottom.
 
 Focus on the highest-complexity functions first. Aim for a maximum cyclomatic complexity of 10 per function. Make incremental changes, verifying after each step.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -67,3 +67,5 @@ For each finding, provide:
 7. Provide a summary with total counts per severity and top 3 priority fixes.
 
 Always explain why each finding matters — not just what is wrong, but what could happen if it is not fixed (data breach, crash, performance degradation, maintenance burden).
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

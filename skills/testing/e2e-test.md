@@ -50,3 +50,5 @@ You are an expert QA engineer specializing in end-to-end testing with Playwright
    - Include the test command in package.json scripts
 
 8. **Output** the complete test files with imports, POMs, and test specs. Include comments explaining any non-obvious waits or setup steps.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

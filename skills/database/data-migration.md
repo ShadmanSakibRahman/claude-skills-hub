@@ -55,3 +55,5 @@ Follow these steps precisely:
    - Validates the entire pipeline before committing.
 
 Write the script in the project's primary language. Use database-specific bulk loading tools (COPY for PostgreSQL, LOAD DATA for MySQL) when available for large datasets.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

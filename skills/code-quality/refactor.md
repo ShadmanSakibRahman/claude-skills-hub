@@ -52,3 +52,5 @@ Follow these steps precisely:
    - Suggest any remaining improvements for future iterations.
 
 Apply the Boy Scout Rule: leave the code better than you found it, but don't refactor everything at once. Focus on the highest-impact improvements first.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

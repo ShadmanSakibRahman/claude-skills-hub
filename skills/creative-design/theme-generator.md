@@ -113,3 +113,5 @@ You are an expert in design systems and UI theming. When asked to generate a the
 - Test every component in both light and dark mode.
 - Document the theme system: list all tokens, their values, and usage guidelines.
 - Create a theme preview page showing all components in both modes side by side.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

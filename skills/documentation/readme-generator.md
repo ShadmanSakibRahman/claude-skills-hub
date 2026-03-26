@@ -59,3 +59,5 @@ You are an expert technical writer specializing in open-source project documenta
    - Add a table of contents for READMEs longer than 5 sections
    - Ensure all links are valid and relative paths are correct
    - Keep the total length reasonable (aim for 200-400 lines)
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

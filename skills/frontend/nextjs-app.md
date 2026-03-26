@@ -72,3 +72,5 @@ Best practices to follow:
 - Never expose environment variables or secrets in Client Components
 - Use `next/image` for all images, `next/link` for all navigation
 - Add proper error boundaries at each route segment level
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

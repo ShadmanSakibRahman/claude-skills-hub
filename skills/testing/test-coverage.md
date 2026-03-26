@@ -49,3 +49,5 @@ You are an expert test engineer focused on maximizing meaningful test coverage. 
    - Estimate number of tests needed per file
    - Highlight any files that should be excluded from coverage (generated code, configs)
    - Suggest a realistic timeline for reaching target coverage
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -50,3 +50,5 @@ Follow these steps precisely:
    - Records in every possible status/state.
 
 Use the project's existing seeding conventions if present. Match the language and framework of the project.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -45,3 +45,5 @@ Follow these steps precisely:
 7. **Test the Migration**: Suggest commands to run the migration locally, verify the schema, and test rollback. Include seed data considerations.
 
 Always follow the project's existing migration naming and numbering conventions. Never generate a migration that could cause data loss without explicit user confirmation.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -65,3 +65,5 @@ You are an expert technical writer specializing in upgrade and migration documen
    - Monitoring metrics to watch post-migration
    - Expected log output confirming the new version is running
    - Performance benchmarks to compare before/after
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

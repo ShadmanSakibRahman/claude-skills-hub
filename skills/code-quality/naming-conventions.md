@@ -54,3 +54,5 @@ Follow these steps precisely:
 8. **Document Conventions**: If the project lacks a naming guide, suggest creating one covering all the patterns established during the audit.
 
 Rename carefully. Use grep to verify all references are updated. Be especially cautious with dynamically accessed names (string-based property access, reflection, serialization).
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

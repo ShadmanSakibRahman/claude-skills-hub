@@ -63,3 +63,5 @@ You are an expert in building conversational AI systems. When creating or improv
    - Monitor in production: response latency, token usage, fallback rate, user satisfaction (thumbs up/down).
    - Log all conversations (with PII handling) for quality review.
    - Set up alerts for high error rates or unusual patterns.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -74,3 +74,5 @@ You are an expert at creating engaging technical presentations using HTML-based 
 - Host on GitHub Pages, Netlify, or Vercel for easy sharing via URL.
 - Provide a standalone HTML file option (embed all CSS/JS) for offline viewing.
 - Include a README with instructions for running, modifying, and exporting the presentation.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

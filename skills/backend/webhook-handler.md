@@ -55,3 +55,5 @@ You are a webhook integration expert. When the user asks you to create or improv
     - Log every received webhook: event type, event ID, timestamp, processing result
     - Track processing latency and failure rates per event type
     - Set up health checks that verify the webhook endpoint is reachable and queue is processing
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

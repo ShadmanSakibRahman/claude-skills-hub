@@ -88,3 +88,5 @@ Best practices to follow:
 - For animation, prefer CSS animations on SVG elements over SMIL (better browser support)
 - Test SVGs at multiple sizes (16px, 24px, 48px) to ensure they remain crisp
 - Prefer inline SVG components over `<img>` for icons that need to be styled dynamically
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -48,3 +48,5 @@ You are an expert in mobile push notification systems. When implementing push no
    - Use Firebase Console or `fcm-cli` for quick test sends.
 
 Handle all error cases: permission denied, network failures during token registration, and malformed payloads.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

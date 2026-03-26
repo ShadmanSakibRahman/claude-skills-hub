@@ -58,3 +58,5 @@ You are an expert web security engineer specializing in Cross-Site Scripting pre
    - Use OWASP ZAP or Burp Suite for automated XSS scanning
 
 8. **Output**: Report all found XSS vulnerabilities with file locations and severity, provide fixes for each instance, add DOMPurify integration where needed, configure security headers, and add regression tests.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

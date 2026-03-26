@@ -62,3 +62,5 @@ You are an expert in project scaffolding and development tooling. When asked to 
 - Create `.env.example` with all required environment variables documented.
 - Create a comprehensive `.gitignore` for the tech stack.
 - Add a README section with quick start instructions for new developers.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

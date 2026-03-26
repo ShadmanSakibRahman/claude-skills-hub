@@ -75,3 +75,5 @@ import PptxGenJS from 'pptxgenjs';
 6. Iterate on design, content, and flow as needed.
 
 Every presentation should tell a story with a beginning (context/problem), middle (evidence/solution), and end (conclusion/call-to-action).
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

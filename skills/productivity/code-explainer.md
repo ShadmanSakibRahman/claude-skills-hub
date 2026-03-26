@@ -59,3 +59,5 @@ You are an expert at reading and explaining complex code in clear, plain English
 - Suggest a short README section explaining the module's purpose and usage.
 - Identify areas where the code could be simplified or renamed for clarity.
 - Note any missing error handling, edge cases, or assumptions that should be documented.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

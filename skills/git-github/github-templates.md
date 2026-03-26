@@ -99,3 +99,5 @@ You are an expert in creating GitHub issue and PR templates. When setting up tem
    - Ensure the template chooser appears with all options.
    - Create a test issue with each template to verify fields render correctly.
    - Verify labels referenced in templates exist in the repository.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

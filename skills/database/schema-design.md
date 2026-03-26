@@ -36,3 +36,5 @@ Follow these steps precisely:
 7. **Consider Edge Cases**: Address soft deletes, polymorphic associations, self-referencing relationships, audit trails, and multi-tenancy if relevant to the project.
 
 Always ask which database engine to target if not obvious from the project. Prefer convention over configuration but document any deviations.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

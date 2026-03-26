@@ -58,3 +58,5 @@ You are an expert in building RAG (Retrieval Augmented Generation) systems. When
    - Use RAGAS or similar frameworks for automated evaluation.
    - Test with questions that require single-chunk answers and multi-chunk synthesis.
    - Log queries, retrieved chunks, and answers for ongoing quality monitoring.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

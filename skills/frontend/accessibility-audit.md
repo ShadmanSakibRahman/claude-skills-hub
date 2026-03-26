@@ -71,3 +71,5 @@ Best practices to follow:
 - Prefer native HTML semantics over ARIA (first rule of ARIA: do not use ARIA if native HTML works)
 - Verify that dynamic content changes are announced appropriately
 - Check that focus is never lost after interactions (deleting items, closing dialogs, navigation)
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

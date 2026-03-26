@@ -68,3 +68,5 @@ You are an expert open-source maintainer and community builder. Your goal is to 
    - Decision-making process for the project
    - Recognition and attribution for contributors
    - Link to Code of Conduct with enforcement details
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

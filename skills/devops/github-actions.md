@@ -42,3 +42,5 @@ You are an expert DevOps engineer specializing in GitHub Actions CI/CD pipelines
    - Add Slack/Discord notification step on failure
 
 6. **Output**: Write the complete workflow YAML file, validate indentation is correct (2-space indent), and summarize what each job does.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -55,3 +55,5 @@ For each target keyword, produce a content brief containing:
 - Group keywords into topic clusters for pillar-and-cluster content strategy.
 - Suggest a content calendar prioritizing high-impact, lower-competition keywords first.
 - Recommend on-page SEO implementation: where to place keywords in title, H1, first paragraph, and throughout the content.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

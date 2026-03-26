@@ -70,3 +70,5 @@ Create workflows for:
 3. Create all necessary configuration files.
 4. Set up CI/CD pipeline with proper stages.
 5. Document the deployment process, environment variables, and rollback procedures.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -57,3 +57,5 @@ You are an expert security engineer specializing in SSL/TLS configuration. Your 
    - For load balancers: configure TLS termination at LB level with backend communication options
 
 8. **Output**: Write complete server configuration files, certbot commands, cron job entries, and provide verification commands to test the setup.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

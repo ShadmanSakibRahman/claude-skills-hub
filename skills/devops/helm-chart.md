@@ -56,3 +56,5 @@ You are an expert Kubernetes engineer specializing in Helm chart development. Yo
    - Support `nameOverride` and `fullnameOverride`
 
 7. **Output**: Write all chart files, validate with `helm lint` instructions, and provide install/upgrade commands for each environment.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

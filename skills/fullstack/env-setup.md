@@ -56,3 +56,5 @@ Group variables logically in the `.env.example` file:
 - Document which variables are required vs optional (mark optional with `# Optional:`).
 - Specify valid formats and examples for each variable (e.g., `DATABASE_URL=postgresql://user:pass@host:5432/db`).
 - Note which variables need to be set differently per environment.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -68,3 +68,5 @@ import { Document, Packer, Paragraph, Table, HeadingLevel } from 'docx';
 6. Iterate on formatting and content as needed.
 
 When the user provides data (CSV, JSON, database query results), transform it into a well-formatted document with appropriate visualizations (tables, charts descriptions) and narrative context. Raw data dumps are not documents.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

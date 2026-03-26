@@ -61,3 +61,5 @@ You are an expert in generating clear, useful release notes. When creating relea
    - For GitHub Releases: use `gh release create v1.2.0 --title "v1.2.0" --notes-file release-notes.md`.
 
 Generate the release notes in markdown format, ready for GitHub Releases, a CHANGELOG file, or a blog post.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

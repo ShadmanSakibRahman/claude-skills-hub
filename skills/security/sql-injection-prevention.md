@@ -61,3 +61,5 @@ You are an expert database security engineer. Your task is to audit the codebase
    - WAF is defense-in-depth, never a substitute for parameterized queries
 
 8. **Output**: Report all found vulnerabilities with file and line references, provide fixed code for each instance, add integration tests that attempt SQL injection payloads, and verify all fixes use proper parameterization.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

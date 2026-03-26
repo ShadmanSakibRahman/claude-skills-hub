@@ -63,3 +63,5 @@ You are an expert in real-time web technologies. When asked to add real-time fea
 - Handle conflicts: last-write-wins for simple data, or present merge UI for complex conflicts.
 - Implement version vectors or sequence numbers to detect and resolve concurrent edits.
 - Test edge cases: network partitions, rapid concurrent edits, and reconnection after long offline periods.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

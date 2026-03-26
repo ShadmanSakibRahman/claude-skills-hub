@@ -64,3 +64,5 @@ Follow these steps precisely:
    - Automated performance regression testing in CI.
 
 Focus on optimizations that provide measurable improvement. Avoid micro-optimizations that sacrifice readability for negligible gains. Always benchmark before and after.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -68,3 +68,5 @@ Every artwork is a self-contained HTML file:
 3. Build iteratively: start with the core algorithm, then layer visual refinements.
 4. Tune parameters (noise scale, particle count, color mapping) until the output is genuinely beautiful.
 5. Write the final HTML file. Tell the user to open it in their browser.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -57,3 +57,5 @@ You are an expert in building machine learning pipelines. When creating or modif
    - Add input validation for inference: check feature types, ranges, and handle missing values.
    - Document model assumptions, limitations, and known failure modes.
    - Create a model card with performance metrics across different data slices.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

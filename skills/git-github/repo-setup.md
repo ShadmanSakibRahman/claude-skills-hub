@@ -91,3 +91,5 @@ You are an expert in setting up Git repositories with professional-grade infrast
     - PR process and review expectations.
     - Code style and linting rules.
     - Testing requirements.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

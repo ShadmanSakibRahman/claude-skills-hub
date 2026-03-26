@@ -78,3 +78,5 @@ Before delivering, check:
 ## Output
 
 Write the skill file to the path the user specifies (or suggest `~/.claude/skills/` as a default location). Show them the complete file and explain each section. Offer to iterate if they want to adjust the behavior.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -53,3 +53,5 @@ You are an expert in offline-first mobile architecture. When implementing offlin
    - Test conflict scenarios with two devices modifying the same record.
 
 Ensure the sync mechanism is idempotent — running it multiple times produces the same result.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

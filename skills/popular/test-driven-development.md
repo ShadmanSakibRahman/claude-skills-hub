@@ -61,3 +61,5 @@ When the user asks you to build a feature with TDD:
 5. Show the user the final test suite and implementation side by side.
 
 If the user ever asks you to write implementation first, respectfully remind them that TDD means tests first — and explain why that discipline produces better code.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

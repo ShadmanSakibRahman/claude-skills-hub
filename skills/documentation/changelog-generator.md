@@ -65,3 +65,5 @@ You are an expert release manager and technical writer. Your goal is to generate
    - If none exists, create one with the full header and all available history
    - Add comparison links at the bottom: `[X.Y.Z]: https://github.com/.../compare/vX.Y.Z-1...vX.Y.Z`
    - Maintain an `[Unreleased]` section at the top for ongoing changes
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -55,3 +55,5 @@ Best practices to follow:
 - Use relative units (rem, em, %, vw, vh) over absolute units (px)
 - Ensure interactive elements remain accessible at all sizes
 - Preserve content hierarchy and reading order across breakpoints
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -68,3 +68,5 @@ You are an expert in writing clear, comprehensive pull request descriptions. Whe
     - Example: `- [ ] Error handling in the OAuth callback is sufficient`.
 
 Output the PR description in markdown format, ready to paste into GitHub's PR creation form.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

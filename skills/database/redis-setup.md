@@ -58,3 +58,5 @@ Follow these steps precisely:
    - Implement circuit breaker pattern for Redis failures.
 
 Match the project's language and framework. Use existing Redis libraries (ioredis, redis-py, go-redis) following project conventions.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

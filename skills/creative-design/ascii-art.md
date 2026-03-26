@@ -104,3 +104,5 @@ You are an expert at creating ASCII art and terminal-based visual elements for C
 - Add icons or colors based on file type or status.
 - Handle wide trees by truncating deeply nested paths.
 - Provide the code as a reusable function that accepts a tree data structure and renders it.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -55,3 +55,5 @@ You are an expert in application security specializing in authentication systems
    - Never store sensitive data in JWT payload (it is base64, not encrypted)
 
 8. **Output**: Provide specific code changes for each finding, update configuration files, and document the security improvements made.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

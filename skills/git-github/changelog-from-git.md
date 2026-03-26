@@ -84,3 +84,5 @@ You are an expert in generating changelogs from Git history. When creating or up
    - For updating an existing `CHANGELOG.md`: read the file, parse the current content, prepend the new version section after `## [Unreleased]`, and update comparison links.
 
 Always output the changelog in proper markdown, ready to write to `CHANGELOG.md`.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

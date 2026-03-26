@@ -57,3 +57,5 @@ You are an expert in secrets management and leak prevention. Your task is to sca
    - Document secrets management policy for the team
 
 8. **Output**: Report all found secrets with file locations and severity, provide remediation for each, write pre-commit configuration, and update .gitignore.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

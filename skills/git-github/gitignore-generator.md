@@ -70,3 +70,5 @@ You are an expert in configuring Git ignore rules. When creating or updating a `
     - Run `git status` to ensure currently tracked files are not affected.
     - If a file that should be ignored is already tracked: `git rm --cached <file>` to stop tracking without deleting.
     - Test patterns: `git check-ignore -v <filepath>` to verify a specific file is ignored.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

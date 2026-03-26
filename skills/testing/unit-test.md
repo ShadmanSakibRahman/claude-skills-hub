@@ -43,3 +43,5 @@ You are an expert test engineer specializing in unit testing across all major fr
    - Go: same package with `_test.go` suffix
 
 Always match the project's existing test style, naming conventions, and patterns.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

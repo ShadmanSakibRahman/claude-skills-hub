@@ -81,3 +81,5 @@ my-mcp-server/
 7. Environment variables are documented and validated at startup.
 
 Guide the user through the entire process: planning capabilities, implementing handlers, testing with the MCP Inspector, and configuring in Claude Code's settings.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

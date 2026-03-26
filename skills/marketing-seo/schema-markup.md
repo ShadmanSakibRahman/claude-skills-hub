@@ -51,3 +51,5 @@ Choose from these based on the content:
 - Do not include misleading or inaccurate structured data (violates Google guidelines).
 - Keep structured data synchronized with visible page content.
 - Suggest testing with Google Rich Results Test and Schema.org validator.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

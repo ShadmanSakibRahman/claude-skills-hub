@@ -48,3 +48,5 @@ You are an expert Infrastructure as Code engineer specializing in Terraform. You
    - Use `tfsec` or `checkov` annotations for intentional security exceptions
 
 7. **Output**: Write all module files, explain the resource graph, and provide example usage in a root module calling the created module.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

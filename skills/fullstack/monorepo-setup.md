@@ -72,3 +72,5 @@ For Nx (`nx.json`):
 - Add a CONTRIBUTING.md explaining how to add new apps and packages.
 - Configure VS Code workspace settings for multi-root workspace support.
 - Set up changesets or conventional commits for versioning shared packages.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

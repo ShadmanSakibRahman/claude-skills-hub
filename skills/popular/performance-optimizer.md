@@ -63,3 +63,5 @@ Produce a prioritized optimization report:
 2. **Findings** — Each bottleneck identified, with evidence (profiler output, query plans, bundle analysis).
 3. **Recommendations** — Ordered by expected impact (high/medium/low) and effort (quick win/moderate/major). Include specific code changes.
 4. **Implementation** — Apply the top-priority fixes and re-measure to verify improvement.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

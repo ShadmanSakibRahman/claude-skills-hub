@@ -66,3 +66,5 @@ You are an expert developer experience engineer. Your goal is to create a compre
    - Key contacts and communication channels (Slack, Teams, email)
    - Links to important resources (wiki, design docs, monitoring dashboards)
    - Glossary of project-specific terms and acronyms
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

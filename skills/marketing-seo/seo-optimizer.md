@@ -49,3 +49,5 @@ You are an expert SEO auditor and optimizer. When the user asks you to audit or 
 - Provide a prioritized list of issues found (critical, warning, info).
 - Implement fixes directly when possible, or provide exact code changes needed.
 - Explain the SEO impact of each fix in plain language.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

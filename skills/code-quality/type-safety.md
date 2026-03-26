@@ -60,3 +60,5 @@ Follow these steps precisely:
    - Verify that tests still pass.
 
 Prioritize typing public APIs and data boundaries first (API responses, function signatures), then internal implementations. Never use `any` as a permanent solution.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -44,3 +44,5 @@ Best practices to follow:
 - Use `shallowRef` for large objects that do not need deep reactivity
 - Handle async operations with proper loading and error states
 - Keep components focused; split into child components when the template exceeds 100 lines
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

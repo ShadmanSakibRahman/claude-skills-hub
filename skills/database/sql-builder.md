@@ -55,3 +55,5 @@ Follow these steps precisely:
    - The equivalent ORM query if the project uses an ORM.
 
 Always specify which SQL dialect the query targets. Format queries with consistent indentation and keyword capitalization for readability.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

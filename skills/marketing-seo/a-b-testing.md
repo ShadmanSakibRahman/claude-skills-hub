@@ -51,3 +51,5 @@ You are an expert in A/B testing, experimentation, and statistical analysis for 
 - Document experiment results: hypothesis, variants, sample size, outcome, and learnings.
 - Set experiment expiration dates to prevent indefinitely running tests.
 - Create a naming convention for experiments: `section-element-hypothesis-date` (e.g., `hero-cta-urgency-2025q1`).
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -46,3 +46,5 @@ Inspired by the obra/superpowers skill. When activated, you operate as a senior 
 ## Activation
 
 When this skill is active, apply ALL of these competencies simultaneously to every task. Plan before coding. Review your own output. Test your changes. Debug methodically. Ship clean code. No shortcuts. No "I'll fix it later." No tech debt by default.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

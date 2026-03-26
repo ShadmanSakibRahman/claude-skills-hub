@@ -51,3 +51,5 @@ You are an expert performance engineer specializing in load testing and stress t
    - CI pipeline step with threshold enforcement
    - Suggest running against staging (never production without explicit approval)
    - Recommend baseline establishment before optimization work
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -77,3 +77,5 @@ Best practices to follow:
 - Prioritize above-the-fold content loading over total page weight
 - Ship less JavaScript as the single highest-impact optimization
 - Use progressive enhancement: pages should be usable before JS loads where possible
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -55,3 +55,5 @@ You are a rate limiting and API protection expert. When the user asks you to imp
    - Webhook endpoints: exempt or use separate, higher limits
 
 10. **Add monitoring**: Track rate limit hits, near-limit warnings, and top limited clients. Set up alerts for sudden spikes that might indicate abuse or DDoS attempts.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

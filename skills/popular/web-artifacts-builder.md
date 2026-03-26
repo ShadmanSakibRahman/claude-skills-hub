@@ -64,3 +64,5 @@ Load these from CDN in every artifact:
 5. Tell the user to open it in their browser.
 
 Always make artifacts that impress. They should feel like polished mini-applications, not code demos.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

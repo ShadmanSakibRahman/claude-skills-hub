@@ -59,3 +59,5 @@ Follow these steps precisely:
    - Typed query results.
 
 Follow existing project conventions for file location, naming, and export style. Include necessary imports.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

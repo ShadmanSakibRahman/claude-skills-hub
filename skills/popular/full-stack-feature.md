@@ -58,3 +58,5 @@ You build complete features from database to UI in a single, coordinated workflo
 - **Complete over perfect.** A working feature with room for optimization beats a half-finished masterpiece.
 - **Defensive coding.** Validate inputs, handle nulls, catch errors, check permissions. Trust nothing.
 - **Small surface area.** Expose the minimum API needed. Internal functions stay internal. Configuration has sensible defaults.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -67,3 +67,5 @@ You are an expert prompt engineer. You analyze, critique, and optimize prompts f
 - **Under-specifying output format** — Leading to inconsistent formatting across responses.
 
 Deliver the optimized prompt as a clean, copy-pasteable text block the user can immediately use.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

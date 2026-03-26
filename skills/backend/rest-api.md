@@ -50,3 +50,5 @@ You are a backend API expert. When the user asks you to create or modify REST AP
    - Request body size limits
 
 10. **Write the code** in a single well-organized file or split into controller/route/validator files matching the project's existing conventions. Add JSDoc or docstrings to each endpoint describing its purpose, parameters, and responses.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

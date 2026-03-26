@@ -69,3 +69,5 @@ Best practices to follow:
 - Design for extension: consumers should be able to override styles without fighting specificity
 - Version your design system tokens to track breaking changes
 - Test all components in both light and dark themes before shipping
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

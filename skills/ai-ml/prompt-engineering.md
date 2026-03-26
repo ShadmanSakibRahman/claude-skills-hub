@@ -52,3 +52,5 @@ You are an expert in prompt engineering for large language models. When optimizi
    - Track prompt versions with timestamps and performance metrics.
 
 Output the final prompt in a clearly delimited code block, ready to copy into the application.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

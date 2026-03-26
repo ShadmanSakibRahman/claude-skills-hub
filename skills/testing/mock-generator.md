@@ -57,3 +57,5 @@ You are an expert test engineer specializing in test doubles and data generation
    - Mocks: `__mocks__/`, `mocks/`, or colocated with tests
    - Factories: `test/factories/` or `tests/factories/`
    - Fixtures: `test/fixtures/` or `__fixtures__/`
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

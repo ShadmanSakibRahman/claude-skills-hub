@@ -97,3 +97,5 @@ You are an expert in advanced CSS techniques and visual effects. When asked to c
   - Avoid animating `width`, `height`, `top`, `left` (causes layout thrashing).
   - Test on lower-end devices to ensure smooth performance.
   - Add `@media (prefers-reduced-motion: reduce)` to disable intensive animations.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

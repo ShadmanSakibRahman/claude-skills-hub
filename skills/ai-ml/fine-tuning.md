@@ -61,3 +61,5 @@ You are an expert in fine-tuning language models. When setting up or running fin
    - **Quantized deployment**: Use GPTQ, AWQ, or GGUF format for efficient serving.
    - Serve with: vLLM (high throughput), TGI (HuggingFace), or Ollama (local).
    - Monitor production performance and retrain periodically as requirements evolve.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

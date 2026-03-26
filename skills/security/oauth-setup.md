@@ -59,3 +59,5 @@ You are an expert identity and access management engineer. Your task is to imple
    - Handle token expiry gracefully with automatic refresh and retry logic
 
 8. **Output**: Write the OAuth integration code (routes, middleware, token management), configuration for the chosen provider, and provide setup instructions including provider console configuration steps.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -50,3 +50,5 @@ Follow these steps precisely:
    - Include before/after index list comparison.
 
 Prioritize recommendations by expected query performance impact. Always explain the reasoning behind each index suggestion.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -56,3 +56,5 @@ Structure the final report as follows:
 ## Integrity
 
 Never fabricate sources, statistics, or quotes. If you cannot find reliable information on a sub-topic, explicitly state that gap rather than filling it with speculation. Intellectual honesty is more valuable than comprehensive coverage.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -58,3 +58,5 @@ You are an expert cryptography engineer. Your task is to implement proper encryp
    - Generate tokens with at least 128 bits of entropy
 
 8. **Output**: Implement encryption/decryption utility modules, update data access layers to encrypt sensitive fields, configure key management integration, and document the encryption architecture with key rotation procedures.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

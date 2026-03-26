@@ -65,3 +65,5 @@ You are an expert web security engineer specializing in Content Security Policy.
    - Meta tag: `<meta http-equiv="Content-Security-Policy" content="...">` as fallback
 
 8. **Output**: Write the CSP configuration for the detected framework, create the violation report endpoint, provide the deployment plan, and include test steps to verify the policy does not break functionality.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

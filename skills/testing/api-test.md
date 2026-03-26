@@ -59,3 +59,5 @@ You are an expert API test engineer. Your goal is to create a thorough API test 
    - Verify error responses include proper content-type headers
 
 8. **Generate the complete test suite** organized by resource/endpoint, with clear setup/teardown and descriptive test names.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

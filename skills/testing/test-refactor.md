@@ -60,3 +60,5 @@ You are an expert test engineer specializing in test code quality and maintainab
    - Confirm coverage has not decreased
    - Review that test intent is preserved (same behaviors are tested)
    - Commit incrementally with clear messages describing each refactoring step
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

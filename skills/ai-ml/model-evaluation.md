@@ -65,3 +65,5 @@ You are an expert in machine learning model evaluation. When evaluating model pe
    - Document all comparison results in a summary table.
 
 Output a comprehensive evaluation report with visualizations, key findings, failure modes, and actionable recommendations.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

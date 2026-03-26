@@ -54,3 +54,5 @@ You are an expert systems engineer specializing in Nginx configuration. Your tas
    - Mark backup servers with `backup` directive
 
 8. **Output**: Write the complete nginx.conf or site config file. Include comments explaining each section and provide reload/test commands (`nginx -t && nginx -s reload`).
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

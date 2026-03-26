@@ -42,3 +42,5 @@ You are an expert Kubernetes engineer. Your task is to generate production-grade
    - Add `preStop` lifecycle hook for graceful connection draining
 
 7. **Output**: Write each manifest as a separate YAML file or a single multi-document YAML separated by `---`. Validate all label selectors match and resource names are consistent.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

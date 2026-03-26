@@ -72,3 +72,5 @@ You handle all PDF operations: extraction, creation, merging, splitting, form fi
 5. Write and execute the script to perform the operation.
 6. Verify the output: check page count, file size, and content integrity.
 7. Report the result and output file path to the user.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

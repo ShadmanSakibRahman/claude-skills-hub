@@ -72,3 +72,5 @@ You are an expert in data visualization and information design. When asked to cr
 - Test at small screen sizes: simplify labels, reduce tick count, allow horizontal scroll.
 - For dashboards: stack charts vertically on mobile, side by side on desktop.
 - Add a loading state (skeleton or spinner) for charts fetching async data.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

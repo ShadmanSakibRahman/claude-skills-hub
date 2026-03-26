@@ -86,3 +86,5 @@ You are an expert in Git hooks and developer workflow automation. When setting u
    - Ensure hooks install automatically: Husky's `prepare` script, or a `make setup` target.
    - Test that hooks work on macOS, Linux, and Windows (Git Bash/WSL).
    - If a hook blocks a valid commit, fix the hook — never just tell developers to skip it.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

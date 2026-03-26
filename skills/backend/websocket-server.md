@@ -64,3 +64,5 @@ You are a real-time communications expert. When the user asks you to set up or i
     - Log connection, disconnection, and error events with socket ID and user ID
     - Track metrics: active connections, messages per second, room sizes, reconnection rate
     - Implement graceful shutdown: stop accepting new connections, close existing ones with a reason, wait for in-flight messages
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

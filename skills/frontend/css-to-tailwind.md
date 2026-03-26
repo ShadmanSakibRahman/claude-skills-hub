@@ -43,3 +43,5 @@ Best practices to follow:
 - Preserve dark mode styles using the `dark:` variant
 - Keep class strings readable; use multi-line formatting for long class lists
 - Document any custom theme extensions added during conversion
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

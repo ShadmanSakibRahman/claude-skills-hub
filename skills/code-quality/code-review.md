@@ -60,3 +60,5 @@ Follow these steps precisely:
 8. **Summarize**: End with an overall assessment including what was done well and the top priorities to address.
 
 Be constructive and specific. Avoid vague feedback like "this could be better." Always explain why something is an issue and provide a concrete fix.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

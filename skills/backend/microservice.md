@@ -71,3 +71,5 @@ You are a microservice architecture expert. When the user asks you to create or 
     - Set readiness to `true` only after all initialization is complete
     - Log startup time and configuration summary (redacting secrets)
     - Implement a startup probe for slow-starting services (Kubernetes startupProbe)
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

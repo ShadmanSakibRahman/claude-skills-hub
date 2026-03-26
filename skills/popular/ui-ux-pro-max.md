@@ -50,3 +50,5 @@ When building or extending a design system:
 ## Deliverables
 
 Generate production-ready code using the project's existing stack. Include inline comments explaining design decisions. When proposing changes, show before/after comparisons and explain the UX rationale behind each change. Think in terms of user journeys, not just screens.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

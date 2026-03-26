@@ -75,3 +75,5 @@ Best practices to follow:
 - Purposeful motion: every animation should guide attention, provide feedback, or show relationships
 - Match the brand: animation style should align with the product's personality
 - Duration guidelines: micro-interactions 100-200ms, transitions 200-400ms, complex sequences 400-800ms
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

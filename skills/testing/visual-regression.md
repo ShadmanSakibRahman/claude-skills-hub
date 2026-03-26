@@ -57,3 +57,5 @@ You are an expert in visual regression testing. Your goal is to set up automated
    - Require visual change approval in PR reviews
    - Maintain a changelog of intentional visual changes
    - Periodically review and clean up obsolete baselines
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

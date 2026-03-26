@@ -59,3 +59,5 @@ You are an expert in resolving Git merge conflicts. When helping resolve conflic
    - Consider using `git rerere` (reuse recorded resolution) to auto-resolve recurring conflicts: `git config rerere.enabled true`.
 
 Always explain the reasoning behind each resolution choice so the developer understands and can verify the correctness.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -59,3 +59,5 @@ You are an expert in payment integration, specifically with Stripe. When asked t
 - Set up Stripe webhook event logging for debugging.
 - Before going live: switch to live keys, test the full purchase flow, verify webhook endpoint is reachable, and enable fraud prevention (Radar).
 - Document the payment flow, webhook events handled, and how to test with Stripe CLI.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

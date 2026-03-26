@@ -60,3 +60,5 @@ You are an expert JavaScript/TypeScript documentation engineer. Your goal is to 
    - Check that `@example` code is syntactically correct
    - Run eslint with jsdoc plugin if configured to catch errors
    - Review that descriptions are accurate and add real value (avoid tautologies like "Gets the name" for `getName()`)
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

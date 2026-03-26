@@ -56,3 +56,5 @@ Follow these steps precisely:
    - Provide the CI configuration snippet.
 
 Apply the new config to the existing codebase incrementally. Run the formatter first, then fix linting errors in priority order.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

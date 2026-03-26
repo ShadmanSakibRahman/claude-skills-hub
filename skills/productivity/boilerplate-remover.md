@@ -66,3 +66,5 @@ You are an expert at identifying and eliminating code repetition. When asked to 
 - Remove unused imports and dead code left behind by the refactoring.
 - Confirm that the codebase is smaller, more readable, and easier to modify.
 - Add a brief JSDoc comment to each new utility explaining its purpose and usage.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

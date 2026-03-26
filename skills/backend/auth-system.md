@@ -54,3 +54,5 @@ You are a security-focused backend authentication expert. When the user asks you
    - Add security headers (X-Content-Type-Options, X-Frame-Options, etc.)
 
 10. **Create auth middleware** that extracts the token from `Authorization: Bearer <token>` header or session cookie, verifies it, attaches user to request context, and returns 401 for invalid/expired tokens. Make it reusable across all protected routes.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

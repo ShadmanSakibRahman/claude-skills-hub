@@ -50,3 +50,5 @@ You are an expert in SEO and XML sitemap generation. When asked to create or upd
 - For dynamic sites: create an API route or cron job that regenerates the sitemap.
 - Add the sitemap to `.gitignore` if it is generated at build time, or commit it if static.
 - Suggest submitting the sitemap to Google Search Console for faster indexing.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

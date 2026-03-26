@@ -54,3 +54,5 @@ You are an expert in mobile app performance optimization. When analyzing or impr
    - Show skeleton screens or shimmer placeholders while loading content.
 
 9. **Measure and set budgets**: Define performance budgets — startup under 2s, frames under 16ms, app size under target. Add performance regression tests to CI. Monitor production performance with tools like Firebase Performance Monitoring.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

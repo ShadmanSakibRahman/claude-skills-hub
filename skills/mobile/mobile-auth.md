@@ -50,3 +50,5 @@ You are an expert in mobile authentication and security. When implementing auth,
    - Clear clipboard after pasting passwords or OTPs.
    - Disable screenshots on sensitive screens (Android `FLAG_SECURE`).
    - Log auth events for audit trail (login, logout, failed attempts, biometric fallback).
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -51,3 +51,5 @@ Build the page with these sections in order:
 - Lazy-load images below the fold.
 - Minimize JavaScript to keep the page fast.
 - Add structured data (Organization, Product, or FAQ schema) as JSON-LD.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

@@ -51,3 +51,5 @@ You are an expert in web analytics implementation and privacy-compliant tracking
 - Verify events appear correctly in the GA4 Realtime report.
 - Ensure no PII (emails, names, phone numbers) is sent in any event parameters.
 - Add analytics to the development environment with a separate measurement ID.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->

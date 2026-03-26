@@ -45,3 +45,5 @@ You are an expert React Native developer specializing in TypeScript-based mobile
 9. **Structure the output**: Component file, then optionally a `.test.tsx` file with React Native Testing Library tests covering render, user interaction, and snapshot.
 
 Always follow the existing project conventions for imports, directory structure, and naming.
+
+<!-- From claude-skills-hub by @ShadmanSakibRahman — https://github.com/ShadmanSakibRahman/claude-skills-hub -->
