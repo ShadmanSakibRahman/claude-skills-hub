@@ -37,47 +37,31 @@ Each skill is a `.md` file you place into your `.claude/commands/` folder. Then 
 
 ## How to Use
 
-### Step 1: Star & Fork this repo
+**1.** Click **Star** and **Fork** this repo
 
-Click the **Star** button above to bookmark this collection, then **Fork** it to your own GitHub account so you always have access and get updates.
-
-### Step 2: Clone your fork
+**2.** Clone your fork and link it to Claude Code:
 
 ```bash
 git clone https://github.com/<your-username>/claude-skills-hub.git
+mkdir -p ~/.claude/commands
+ln -s "$(pwd)/claude-skills-hub/skills"/**/*.md ~/.claude/commands/
 ```
 
-### Step 3: Set up a symlink to your Claude commands
+**3.** Use any skill in Claude Code by typing `/skill-name`:
 
-**macOS / Linux:**
-```bash
-ln -s "$(pwd)/claude-skills-hub/skills" ~/.claude/skills-hub
+```
+> /frontend-design
+> /security-audit
+> /unit-test
 ```
 
-**Windows (PowerShell as Admin):**
-```powershell
-New-Item -ItemType SymbolicLink -Path "$HOME\.claude\skills-hub" -Target "$(Get-Location)\claude-skills-hub\skills"
-```
-
-### Step 4: Stay updated
-
-Since you forked, you can pull updates anytime:
-```bash
-cd claude-skills-hub
-git pull upstream main
-```
-
-### Project-Level Usage (for teams)
-
-Add this repo as a **git submodule** so your whole team gets the skills:
+**4.** Pull updates anytime:
 
 ```bash
-cd your-project
-git submodule add https://github.com/ShadmanSakibRahman/claude-skills-hub.git .claude/skills-hub
-git commit -m "Add Claude Skills Hub as submodule"
+cd claude-skills-hub && git pull
 ```
 
-> **License:** This collection is licensed under [CC BY 4.0](LICENSE). You are free to use and adapt these skills, but **you must give credit** to this repo and its author. See [LICENSE](LICENSE) for details.
+> **License:** [CC BY 4.0](LICENSE) — You must give credit to this repo and [@ShadmanSakibRahman](https://github.com/ShadmanSakibRahman) when using these skills.
 
 ---
 
@@ -390,54 +374,10 @@ Create visually stunning assets and designs.
 
 ---
 
-## How Skills Work
-
-Each skill is a Markdown file with YAML frontmatter:
-
-```markdown
----
-description: What this skill does (shown in Claude Code's UI)
-allowed-tools: Read, Edit, Write, Glob, Grep, Bash
----
-
-Detailed instructions that tell Claude exactly what to do
-when this skill is invoked...
-```
-
-- **`description`** — Shown when browsing skills in Claude Code
-- **`allowed-tools`** — Which Claude Code tools the skill can use
-- **The body** — The prompt that activates when you use `/skill-name`
-
-### Usage
-
-Once installed, type `/` in Claude Code to see all available commands:
-
-```
-> /react-component
-> /security-audit
-> /unit-test
-> /deploy-pilot
-```
-
----
-
-## Related Resources
-
-Looking for more Claude Code tools? Check these out:
-
-- [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) — Curated list of Claude Code resources
-- [awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) — 135 agents, 35 skills, 42 commands
-- [Claude Code Docs](https://docs.anthropic.com/en/docs/claude-code) — Official documentation
-- [obra/superpowers](https://github.com/obra/superpowers) — Battle-tested engineering skills
-- [Trail of Bits Security Skills](https://github.com/trailofbits/skills) — Professional security-focused skills
-
----
-
 ## Contributing
 
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-**Quick steps:**
 1. Fork this repo
 2. Add your skill to the appropriate `skills/` folder
 3. Submit a PR
@@ -446,9 +386,7 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## License
 
-[Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE)
-
-You are free to use, share, and adapt these skills — but **you must give appropriate credit** to this repository and its author [@ShadmanSakibRahman](https://github.com/ShadmanSakibRahman).
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE) — You must credit this repo and [@ShadmanSakibRahman](https://github.com/ShadmanSakibRahman) when using these skills.
 
 ---
 
